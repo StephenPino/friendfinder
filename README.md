@@ -1,3 +1,3 @@
 # friendfinder
-## LIVE DEMO:
+## DEMO:
 https://pure-crag-72331.herokuapp.com/
